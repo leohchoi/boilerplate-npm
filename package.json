@@ -1,6 +1,6 @@
 {
-  "author": "Leo Choi",
 	"name": "fcc-learn-npm-package-json",
+  "author": "Leo Choi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
